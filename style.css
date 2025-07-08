@@ -1,5 +1,22 @@
 /* Header */
+.header{
+    height: 100px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
+.header ul {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+
+.header a {
+    text-decoration: none;
+    color: red;
+}
 
 
 
