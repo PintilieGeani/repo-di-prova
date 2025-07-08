@@ -27,7 +27,19 @@
 /* Body */
 
 
+.root{
+    margin: 0, auto;
+    padding: 20px;
+}
+
+
 
 
 
 /* Footer */
+
+.footer {
+    background-color: aliceblue;
+    width: 100%;
+    
+}
